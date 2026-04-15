@@ -1,18 +1,22 @@
-<h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">A web developer from Baguio City</h3>
+# 👋 Hello, I'm Adrian
 
-- 🔭 I’m currently working as an **IT Specialist in Makati**
+I am an **IT Specialist** and **Full-Stack Developer** based in the Philippines. I specialize in building modern, decoupled web applications and am currently pivoting toward **Cloud Engineering** and **DevOps**. I utilize an AI-augmented "Orchestrator’s Pattern" to focus on system architecture and business logic.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+### 💻 Technical Arsenal
 
-</p>
+* **Frontend:** React (Inertia.js), Next.js, Material UI (MUI)
+* **Backend:** Laravel, Node.js, MongoDB
+* **Cloud:** Pursuing **GCP Associate Cloud Engineer** & **AWS Solutions Architect Associate**
+* **Workflow:** "Vibecoding" & Agent Orchestration (Claude, Gemini, ChatGPT)
+
+---
+
+### 🚀 Key Projects
+
+* **KrakenBoard (v0.1.0 MVP):** A project management and CRM-lite tool designed to consolidate clients, projects, sprints, and backlogs into a unified, high-performance dashboard.
+* **IT Management System (ITMS):** A centralized asset and ticketing platform built with Laravel/React, replacing legacy Excel workflows for 200+ assets.
+* **Trust-Based Time Tracker:** A privacy-focused, lightweight Next.js and MongoDB application for streamlined time logging.
+
+
