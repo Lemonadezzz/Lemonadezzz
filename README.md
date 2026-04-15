@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Adrian
 
-I am an **IT Specialist** and **Full-Stack Developer** based in the Philippines. I specialize in building modern, decoupled web applications and am currently pivoting toward **Cloud Engineering** and **DevOps**. I utilize an AI-augmented "Orchestrator’s Pattern" to focus on system architecture and business logic.
+I am an **IT Specialist** and **Full-Stack Developer** based in the Philippines. I specialize in building modern and am currently pivoting toward **Cloud Engineering** and **DevOps**. I utilize an AI-augmented "Orchestrator’s Pattern" to focus on system architecture and business logic.
 
 ---
 
