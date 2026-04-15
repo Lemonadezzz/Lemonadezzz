@@ -16,7 +16,7 @@ I am an **IT Specialist** and **Full-Stack Developer** based in the Philippines.
 ### 🚀 Key Projects
 
 * **KrakenBoard (v0.1.0 MVP):** A project management and CRM-lite tool designed to consolidate clients, projects, sprints, and backlogs into a unified, high-performance dashboard.
-* **IT Management System (ITMS):** A centralized asset and ticketing platform built with Laravel/React, replacing legacy Excel workflows for 200+ assets.
+* **IT Management System (ITMS):** A centralized asset and ticketing platform built with Next.js, replacing legacy Excel workflows for 200+ assets.
 * **Trust-Based Time Tracker:** A privacy-focused, lightweight Next.js and MongoDB application for streamlined time logging.
 
 
