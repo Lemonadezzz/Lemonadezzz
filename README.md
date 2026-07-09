@@ -4,12 +4,12 @@ I am an **IT Specialist** and **Full-Stack Developer** based in the Philippines.
 
 ---
 
-### 💻 Technical Arsenal
+### 💻 Tech Stack
 
 * **Frontend:** React (Inertia.js), Next.js, Material UI (MUI)
 * **Backend:** Laravel, Node.js, MongoDB
-* **Cloud:** Pursuing **GCP Associate Cloud Engineer** & **AWS Solutions Architect Associate**
-* **Workflow:** "Vibecoding" & Agent Orchestration (Claude, Gemini, ChatGPT)
+* **Cloud:** Pursuing **GCP Associate Cloud Engineer** 
+* **Workflow:** Agent Orchestration (Claude, Gemini, ChatGPT)
 
 ---
 
@@ -17,6 +17,6 @@ I am an **IT Specialist** and **Full-Stack Developer** based in the Philippines.
 
 * **KrakenBoard :** A project management and CRM-lite tool designed to consolidate clients, projects, sprints, and backlogs into a unified, high-performance dashboard.
 * **IT Management System (ITMS):** A centralized asset and ticketing platform built with Next.js, replacing legacy Excel workflows for 200+ assets.
-* **Obeliskv2: A Trust-Based Time Tracker:** A privacy-focused, lightweight Next.js and MongoDB application for streamlined time logging.
+* **kairo: A Trust-Based Time Tracker:** A privacy-focused, lightweight Next.js and MongoDB application for streamlined time logging.
 
 
